@@ -79,3 +79,19 @@ div.circle {
     background-color: $red;
     border-radius: 50%;
 }
+
+div.post {
+
+    h3 {
+        margin-top: 80px;
+    }
+
+    p {
+        max-width: 540px;
+        margin-bottom: 40px;
+    }
+    
+    img {
+        max-width: 780px;
+    }
+} 
